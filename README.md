@@ -5,6 +5,8 @@
 <!--
 **Joajy/Joajy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Joajy)](https://solved.ac/Joajy)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
