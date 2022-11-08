@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-[![Joajy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joajy)](https://github.com/anuraghazra/github-readme-stats)
+[![Joajy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joajy&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Joajy/Joajy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Joajy)](https://solved.ac/Joajy)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=joajy)](https://solved.ac/joajy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joajy&layout=Demo&theme=cobalt)
 
 Here are some ideas to get you started:
 
