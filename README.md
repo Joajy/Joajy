@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20super%20kinggod%20full%20stack%20Developer%20aka%20code%20master%20Mr.Kim!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Backend%20Developer%20Mr.Kim!&descAlignY=51&descAlign=62)
 
 ### 🙋 About me
 
