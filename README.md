@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Backend%20Developer%20Mr.Kim!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Server%20Developer%20Mr.Kim!&descAlignY=51&descAlign=62)
 
 ## 🙋 About me
 ![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@joajy/)
